@@ -87,12 +87,13 @@ div .hero {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/* commented out redundant css
+/* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -100,14 +101,15 @@ div .hero {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
-.benefit-lead h3 {
+.benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+/* commented out redundant css
+/* .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -115,15 +117,16 @@ div .hero {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
-.benefit-lead img {
+.benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* commented out redundant css
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -133,11 +136,11 @@ div .hero {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 /* changed to id because class unnecessary */
 
-#search-engine-optimization {
+#main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,8 +148,8 @@ div .hero {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-#online-reputation-management {
+ /* commented out redundant css */
+/* #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -162,26 +165,28 @@ div .hero {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-#search-engine-optimization img {
+#main-content img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
+/* commented out redundant css
+/* #online-reputation-management img {
     max-height: 200px;
 }
 
 #social-media-marketing img {
     max-height: 200px;
-}
+} */
 
-#search-engine-optimization h2 {
+#main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-#online-reputation-management h2 {
+/* commented out redundant css
+/* #online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -189,7 +194,7 @@ div .hero {
 #social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 footer {
     padding: 30px;
